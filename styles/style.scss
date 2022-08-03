@@ -2,14 +2,12 @@
 
 $bg: #f5fdff;
 $btn-bg: #80abff;
-$Soft-violet: hsl(277, 64%, 61%);
 
 //### Neutral
 
 $White: hsl(0, 0%, 100%);
-$Slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
-$Slightly-transparent-white-stats: hsla(0, 0%, 100%, 0.6);
 
 $font-size: 1.5rem;
 
 @import "general";
+@import "media-queries";
